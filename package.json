@@ -1,0 +1,22 @@
+{
+  "name": "jquery-basics",
+  "version": "1.0.0",
+  "description": "practicing with browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TubalLara/jquery-basics.git"
+  },
+  "author": "Tubal Lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TubalLara/jquery-basics/issues"
+  },
+  "homepage": "https://github.com/TubalLara/jquery-basics#readme",
+  "dependencies": {
+    "kirby-dance": "^0.1.0"
+  }
+}
